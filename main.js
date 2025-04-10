@@ -3,3 +3,5 @@ if (a > 0) {
 } else {
   alert("Manfiy");
 }
+
+console.log("12345678");
