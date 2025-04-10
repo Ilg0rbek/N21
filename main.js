@@ -5,3 +5,5 @@ if (a > 0) {
 }
 
 console.log("12345678");
+
+console.log("Salom");
